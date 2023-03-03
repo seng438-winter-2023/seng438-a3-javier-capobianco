@@ -142,24 +142,39 @@ boolean contains(double)
 
 **Data Utilities class:**
 static Number[] createNumberArray(double [])
+<br/>
 <img src="markdownImages/image19.png" alt="markdownImages/image19.png" width="360">
+<br/>
 <img src="markdownImages/image11.png" alt="markdownImages/image11.png" width="360">
+<br/>
 static Number[] createNumberArray(double [][])
+<br/>
 <img src="markdownImages/image23.png" alt="markdownImages/image23.png" width="360">
+<br/>
 <img src="markdownImages/image7.png" alt="markdownImages/image7.png" width="360">
+<br/>
 static KeyedValues getCumulativePercentages(KeyValues)
+<br/>
 <img src="markdownImages/image2.png" alt="markdownImages/image2.png" width="360">
+<br/>
 <img src="markdownImages/image18.png" alt="markdownImages/image18.png" width="360">
+<br/>
 We could not get above 90% statement coverage since this method has a for loop that will never be run because of how it is written, this loop will always get a false condition and thus it is impossible to run the statements inside the for loop.
-
+<br/>
 static double calculateColumnTotal(Values2D, int)
+<br/>
 <img src="markdownImages/image14.png" alt="markdownImages/image14.png" width="360">
+<br/>
 <img src="markdownImages/image13.png" alt="markdownImages/image13.png" width="360">
+<br/>
 We could not get above 90% statement coverage since this method has a for loop that will never be run because of how it is written, this loop will always get a false condition and thus it is impossible to run the statements inside the for loop. 
-
+<br/>
 static double calculateRowTotal(Values2D, int)
+<br/>
 <img src="markdownImages/image17.png" alt="markdownImages/image17.png" width="360">
+<br/>
 <img src="markdownImages/image6.png" alt="markdownImages/image6.png" width="360">
+<br/>
 We could not get above 90% statement coverage since this method has a for loop that will never be run because of how it is written, this loop will always get a false condition and thus it is impossible to run the statements inside the for loop. 
 
 
