@@ -110,20 +110,35 @@ We based the five test cases that we wrote based on the current coverage informa
 
 **Range Class:**
 static Range combine(Range, Range)
+<br/>
 <img src="markdownImages/image22.png" alt="markdownImages/image22.png" width="360">
+<br/>
 <img src="markdownImages/image15.png" alt="markdownImages/image15.png" width="360">
+<br/>
 boolean constrain(double)
+<br/>
 <img src="markdownImages/image10.png" alt="markdownImages/image10.png" width="360">
+<br/>
 <img src="markdownImages/image16.png" alt="markdownImages/image16.png" width="360">
+<br/>
 boolean intersects(double, double)
+<br/>
 <img src="markdownImages/image8.png" alt="markdownImages/image8.png" width="360">
+<br/>
 <img src="markdownImages/image3.png" alt="markdownImages/image3.png" width="360">
+<br/>
 static Range expandToInclude(Range, double)
+<br/>
 <img src="markdownImages/image12.png" alt="markdownImages/image12.png" width="360">
+<br/>
 <img src="markdownImages/image5.png" alt="markdownImages/image5.png" width="360">
+<br/>
 boolean contains(double)
+<br/>
 <img src="markdownImages/image4.png" alt="markdownImages/image4.png" width="360">
+<br/>
 <img src="markdownImages/image9.png" alt="markdownImages/image9.png" width="360">
+<br/>
 
 **Data Utilities class:**
 static Number[] createNumberArray(double [])
