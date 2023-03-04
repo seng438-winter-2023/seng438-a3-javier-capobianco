@@ -196,14 +196,11 @@ The first part of the assignment was getting our testing environments set up and
 
 # 9 Any difficulties encountered, challenges overcome, and lessons learned from performing the lab
 
-  
-
-Text…
+A few difficulties we encountered was understanding the different types of coverage since a lot of them sounded similar initially. For example, most of our group members were struggling to understand the difference between condition-coverage and branch coverage. We spent time researching together from the notes and the internet to better understand the difference before implementing them in our test suites. 
 
   
 
 # 10 Comments/feedback on the lab itself
 
-  
+This assignment was very valuable as it allowed us to learn about different types of coverage in an interactive manner. Visualizing the coverage and being able to modify test functions directly to see the results was a very good way to further our understanding of coverage-based testing methods. However, we thought that the instructions could have been a little more specific. As well, it was impossible to attain 90% coverage in certain methods.
 
-Text…
